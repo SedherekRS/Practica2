@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="tvLabel">Pokemons Weigth:</string>
+</resources>
